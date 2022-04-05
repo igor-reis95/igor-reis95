@@ -17,6 +17,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 <!--![Todoist](https://img.shields.io/badge/Todoist-E44332?style=for-the-badge&logo=todoist&logoColor=white)-->
 
+
 ## 🔨 Atualmente estou...
 - Trabalhando em um projeto que busca preços de produtos em mercados online
 - Atualizando currículo e redes sociais
