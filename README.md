@@ -19,6 +19,6 @@
 
 
 ## 🔨 Atualmente estou...
-- Trabalhando no meu projeto de busca de preços de produtos em mercados online <a href="https://github.com/Igorrubbo/WebScrapping-Mercado/">mercados online</a>
+- Trabalhando no meu projeto de busca de <a href="https://github.com/Igorrubbo/WebScrapping-Mercado/">preços de produtos em mercados online</a>
 - Atualizando currículo e redes sociais
 
