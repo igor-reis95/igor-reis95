@@ -19,6 +19,6 @@
 
 
 ## 🔨 Atualmente estou...
-- Trabalhando em um projeto que busca preços de produtos em mercados online
+- Trabalhando no meu projeto de busca de preços de produtos em mercados online
 - Atualizando currículo e redes sociais
 
