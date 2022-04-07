@@ -1,11 +1,7 @@
 ### 👋 Olá! 
 
-
-- 🌱 Estudando Python & SQL
-- ⚡ Aprender é meu hobby
-- 🖥 Veja em que estou trabalhando: <a href="https://github.com/Igorrubbo?tab=repositories">Repositórios</a>
-- 💬 Fique a vontade para me perguntar o que quiser
-- 📫 Entre em contato em: igorrubbo@hotmail.com || <a href="https://www.linkedin.com/in/igor-rubbo-dos-santos-reis-167832149/">LinkedIn</a>
+### Sou o Igor Rubbo, desenvolvedor Python na área de dados 💻
+![image](https://user-images.githubusercontent.com/53878194/162280572-0b561d84-08f6-4957-b6aa-16ece1688d94.png)
 
 ## 🧰 Linguagens e ferramentas:
 
@@ -15,7 +11,17 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-<!--![Todoist](https://img.shields.io/badge/Todoist-E44332?style=for-the-badge&logo=todoist&logoColor=white)-->
+
+## 👨‍💻 Um pouco sobre mim:
+
+- 🌱 Estudando Python & SQL
+- ⚡ Aprender é meu hobby
+- 🖥 Veja em que estou trabalhando: <a href="https://github.com/Igorrubbo?tab=repositories">Repositórios</a>
+- 📖 Senhor dos Anéis e tão bom quanto dizem e estou na minha segunda leitura
+- 💬 Fique a vontade para me perguntar o que quiser
+- 📫 Entre em contato em: igorrubbo@hotmail.com || <a href="https://www.linkedin.com/in/igor-rubbo-dos-santos-reis-167832149/">LinkedIn</a>
+
+
 
 
 ## 🔨 Atualmente estou...
