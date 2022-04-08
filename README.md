@@ -1,7 +1,7 @@
 ### 👋 Olá! 
 
 ### Sou o Igor Rubbo, desenvolvedor Python na área de dados 💻
-![image](https://user-images.githubusercontent.com/53878194/162280572-0b561d84-08f6-4957-b6aa-16ece1688d94.png)
+![image](https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif)
 
 ## 🧰 Linguagens e ferramentas:
 
